@@ -1,0 +1,6 @@
+
+/packages/*/build/**
+/packages/*/coverage/**
+/node_modules/**
+yarn.lock
+package.json
